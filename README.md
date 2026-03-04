@@ -1,4 +1,4 @@
-# PlatziFakeStore API
+# 🛍️ PlatziFakeStore API
 
 Uma aplicação web que consome a API Fake Store do Platzi para exibir produtos em uma loja virtual.
 
@@ -23,3 +23,4 @@ Projeto desenvolvido para praticar consumo de APIs externas, exibindo catálogo 
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se livre para abrir issues ou enviar pull requests.
+
